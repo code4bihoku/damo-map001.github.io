@@ -1,0 +1,35 @@
+.ol-rotate {
+    top: 2.15em;
+}
+.ol-if {
+    top: 0.6em;
+    left: 3.7em;
+}
+.ol-list {
+    top: 6.0em;
+    left: 0.6em;
+    background-color: transparent;
+    /*opacity: 0;*/
+}
+.ui.segment{
+    background-color: transparent;
+}
+.ol-list:hover {
+    background-color: transparent;
+}
+.ui.icon.buttons.if button{
+    height: 2.55em;
+    width: 2.55em;
+}
+.ui.button {
+    height: inherit;
+    width: unset;
+}
+html, body {
+    overflow: hidden;
+    padding: constant(safe-area-inset-right); 
+    padding: constant(safe-area-inset-bottom); 
+    padding: constant(safe-area-inset-left); 
+    padding: constant(safe-area-inset-top); 
+}
+
